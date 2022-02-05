@@ -1,5 +1,5 @@
 <div align="center" >
-  
+
 ### Hi there 👋
 
 **sinclares/sinclares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
 [![wakatime](https://wakatime.com/badge/user/c5e4444e-f3d5-49e3-8604-6f50163323d1.svg)](https://wakatime.com/@c5e4444e-f3d5-49e3-8604-6f50163323d1)
 
 ![sinclares](https://github-profile-trophy.vercel.app/?username=sinclares&theme=monokai&title=MultiLanguage,Commits,Repositories&column=3&margin-h=10)
-  
+
 </div>
 
 ---
@@ -26,7 +26,7 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sinclares/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sinclares/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves)](https://githubtrends.io)
-  
+
 </div>
 
 <!-- signed by sin100xx -->
