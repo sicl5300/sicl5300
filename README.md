@@ -24,8 +24,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sinclares&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sinclares/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=bright_lights)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sinclares/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sinclares/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sinclares/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+
 </div>
 
 <!-- signed by sin100xx -->
