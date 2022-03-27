@@ -15,8 +15,8 @@
 
 ---
 
-- 🔭 I’m currently working:<br>  To rebuild my personal website/blog based on laravel8.
-- 🌱 I’m currently learning front-end stuff.
+- 🔭 I’m currently working:<br>  nothing<!--To rebuild my personal website/blog based on laravel8.-->
+- 🌱 I’m currently learning WPF.
 - 😄 Pronouns: he, she, his, her, it, its, they, their.
 
 ---
