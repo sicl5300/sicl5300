@@ -11,7 +11,7 @@
 
 ![sinclares](https://github-profile-trophy.vercel.app/?username=sinclares&theme=monokai&title=MultiLanguage,Commits,Repositories&column=3&margin-h=10)
   
-![Avatar Source](https://www.pixiv.net/artworks/92898989)
+[Avatar Source](https://www.pixiv.net/artworks/92898989)
 
 </div>
 
