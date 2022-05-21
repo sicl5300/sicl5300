@@ -10,6 +10,8 @@
 [![wakatime](https://wakatime.com/badge/user/c5e4444e-f3d5-49e3-8604-6f50163323d1.svg)](https://wakatime.com/@c5e4444e-f3d5-49e3-8604-6f50163323d1)
 
 ![sinclares](https://github-profile-trophy.vercel.app/?username=sinclares&theme=monokai&title=MultiLanguage,Commits,Repositories&column=3&margin-h=10)
+  
+![Avatar Source](https://www.pixiv.net/artworks/92898989)
 
 </div>
 
