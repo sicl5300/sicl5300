@@ -1,4 +1,4 @@
-oh-my-posh init pwsh --config '~\AppData\Local\Programs\oh-my-posh\themes\material.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config $Home\AppData\Local\Programs\oh-my-posh\themes\material.omp.json | Invoke-Expression
 Import-Module posh-git
 
 chcp 65001
@@ -17,6 +17,12 @@ function lvlme {
 }
 
 ## End PROFILE ##
+
+# Functions
+
+function dhome {
+    Set-Location D:/$Env:USERNAME;
+}
 
 # Aliases
 
