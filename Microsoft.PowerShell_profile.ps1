@@ -24,6 +24,10 @@ function dhome {
     Set-Location D:/$Env:USERNAME;
 }
 
+function vpn {
+    $Env:http_proxy="http://127.0.0.1:7890";$Env:https_proxy="http://127.0.0.1:7890"
+}
+
 # Aliases
 
 function __ll_function_alias {
