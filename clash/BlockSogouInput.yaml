@@ -1,0 +1,11 @@
+rule-providers:
+  sogouinput:
+    type: http
+    behavior: classical
+    format: text
+    interval: 43200
+    url: https://ruleset.skk.moe/Clash/non_ip/sogouinput.txt
+    path: ./sukkaw_ruleset/sogouinput.txt
+
+prepend-rules:
+  - RULE-SET,sogouinput,REJECT

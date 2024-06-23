@@ -1,0 +1,2 @@
+prepend-rules: 
+  - "DOMAIN-SUFFIX,steamstatic.com,Proxy"
